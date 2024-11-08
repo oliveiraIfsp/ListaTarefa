@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaTarefa</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="empty_list">Lista de Tarefas vazia</string>
+    <string name="tarefa">Tarefa:</string>
+    <string name="observacao">Observação:</string>
+    <string name="descricao">Descrição:</string>
+    <string name="lista_vazia">Lista Vazia</string>
+</resources>
